@@ -1,1 +1,1 @@
-covid19 detection using cnn
+COVID19-DETECTION USING CNN
